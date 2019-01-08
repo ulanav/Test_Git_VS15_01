@@ -7,3 +7,4 @@ F:\work\Git\WFA_test_GitVS2015_01\WFA_test_GitVS2015_01\obj\Debug\WFA_test_GitVS
 F:\work\Git\WFA_test_GitVS2015_01\WFA_test_GitVS2015_01\obj\Debug\WFA_test_GitVS2015_01.csproj.GenerateResource.Cache
 F:\work\Git\WFA_test_GitVS2015_01\WFA_test_GitVS2015_01\obj\Debug\WFA_test_GitVS2015_01.exe
 F:\work\Git\WFA_test_GitVS2015_01\WFA_test_GitVS2015_01\obj\Debug\WFA_test_GitVS2015_01.pdb
+F:\work\Git\Test_Git_VS15_01\WFA_test_GitVS2015_01\bin\Debug\WFA_test_GitVS2015_01.exe.config
