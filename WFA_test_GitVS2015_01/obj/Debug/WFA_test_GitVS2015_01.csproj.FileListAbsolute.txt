@@ -1,1 +1,9 @@
 F:\work\Git\WFA_test_GitVS2015_01\WFA_test_GitVS2015_01\bin\Debug\WFA_test_GitVS2015_01.exe.config
+F:\work\Git\WFA_test_GitVS2015_01\WFA_test_GitVS2015_01\bin\Debug\WFA_test_GitVS2015_01.exe
+F:\work\Git\WFA_test_GitVS2015_01\WFA_test_GitVS2015_01\bin\Debug\WFA_test_GitVS2015_01.pdb
+F:\work\Git\WFA_test_GitVS2015_01\WFA_test_GitVS2015_01\obj\Debug\WFA_test_GitVS2015_01.csprojResolveAssemblyReference.cache
+F:\work\Git\WFA_test_GitVS2015_01\WFA_test_GitVS2015_01\obj\Debug\WFA_test_GitVS2015_01.Form1.resources
+F:\work\Git\WFA_test_GitVS2015_01\WFA_test_GitVS2015_01\obj\Debug\WFA_test_GitVS2015_01.Properties.Resources.resources
+F:\work\Git\WFA_test_GitVS2015_01\WFA_test_GitVS2015_01\obj\Debug\WFA_test_GitVS2015_01.csproj.GenerateResource.Cache
+F:\work\Git\WFA_test_GitVS2015_01\WFA_test_GitVS2015_01\obj\Debug\WFA_test_GitVS2015_01.exe
+F:\work\Git\WFA_test_GitVS2015_01\WFA_test_GitVS2015_01\obj\Debug\WFA_test_GitVS2015_01.pdb
